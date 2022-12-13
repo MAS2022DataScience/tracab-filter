@@ -1,4 +1,4 @@
-package com.mas2022datascience.springtracabfilter;
+package com.mas2022datascience.tracabfilter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

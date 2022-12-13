@@ -1,4 +1,4 @@
-package com.mas2022datascience.springtracabfilter.processor;
+package com.mas2022datascience.tracabfilter.processor;
 
 import com.mas2022datascience.avro.v1.Frame;
 import io.confluent.kafka.streams.serdes.avro.SpecificAvroSerde;
